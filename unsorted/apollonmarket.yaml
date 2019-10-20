@@ -1,5 +1,4 @@
 name: Apollon Market
-description: ""
 urls:
 - apollonujscjrlng.onion
 - apollonl43274j26.onion
@@ -9,56 +8,60 @@ urls:
 - apollon2tclejj73.onion
 - apollonvm7uin7yw.onion
 - dzcolkv7tur5ajw3.onion
-public_key: |-
-  -----BEGIN PGP PUBLIC KEY BLOCK-----
-  Version: GnuPG v2
+public_keys:
+- id: 8BD17F553139FB08
+  user_id: Apollon Market <apollon@market.com>
+  fingerprint: 582C9ABFE7EB6F71B921E5D48BD17F553139FB08
+  value: |
+    -----BEGIN PGP PUBLIC KEY BLOCK-----
+    Version: GnuPG v2
 
-  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
-  PzkN
-  =Uce3
-  -----END PGP PUBLIC KEY BLOCK-----
+    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
+    PzkN
+    =Uce3
+    -----END PGP PUBLIC KEY BLOCK-----
