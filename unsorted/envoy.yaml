@@ -47,8 +47,10 @@ public_keys:
     0nU/iG6eNNv8wJ37ZHMTuLDkLdzKrDakE59a3+K8Az5ovXKZ
     =1tE0
     -----END PGP PUBLIC KEY BLOCK-----
-
-                 F0RTUNA PGP
+- id: 664D756F0E02D5F0
+  user_id: F0rtuna <f0rtuna@f0rtuna.gold>
+  fingerprint: 1F45F8F1B437BE31BC527BE3664D756F0E02D5F0
+  value: |
     -----BEGIN PGP PUBLIC KEY BLOCK-----
 
     mQINBF0UCJgBEADVslaZEg8n1sfKdQ+XfuMXqyCJVjkU7b92eTBAXMNWqGTUztM9
