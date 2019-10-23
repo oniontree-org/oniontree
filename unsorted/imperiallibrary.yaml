@@ -1,4 +1,73 @@
 name: Imperial Library
-description: ""
+description: The Imperial Library of Trantor (also known as Galactic Library) is a
+  repository of DRM-free ebooks on ePub format.
 urls:
 - http://xfmro77i3lixucja.onion
+public_keys:
+- id: E9971784146CCD94
+  user_id: Las Zenow (Imperial Library of Trantor) <zenow@riseup.net>
+  fingerprint: C3BE4EB1BF13A8D999D01E46E9971784146CCD94
+  value: |
+    -----BEGIN PGP PUBLIC KEY BLOCK-----
+
+    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
+    wKnwilR6Bcwo70R1ui15NP7uoWE=
+    =TyMr
+    -----END PGP PUBLIC KEY BLOCK-----
