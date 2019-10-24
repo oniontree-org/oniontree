@@ -1,0 +1,88 @@
+name: Prometheus Hidden Services
+description: Prometheus Hidden Services is an .onion-hoster, that allowes you to host
+  your applications, webpages, shells... in your virtual private server (VPS) in the
+  tor network.
+urls:
+- http://prometh5th5t5rfd.onion
+public_keys:
+- id: 420A80BA7F710E72
+  user_id: Prom Etheus (Prometheus Hidden Services) <chryso@sigaint.org>
+  fingerprint: 76F1A903CCF4E79FB18FD8C3420A80BA7F710E72
+  value: |
+    -----BEGIN PGP PUBLIC KEY BLOCK-----
+    Version: GnuPG v1
+
+    mQINBFhQyuUBEADCPks94YWnEbwEvoN3puGHtfnXmipahdjrUGmmDVnSyo8fNOC/
+    SgC3vtwOoo74RXpqnEWpLXZtp4coiYC/zWZ1Zbofc2vGnRGTD/hw5agQ/zRTLJOr
+    O5ePCoMrHM4OPYUdStaMXWNXo4tr7avT4vcLnAycZvUnDrKdZ9pV/kCPjyM+noQw
+    21mS5c8kmkkjCEZX2DZ67tAvN6vtpS8EqSmwqc+qEyT7oimFRfS5dj+48nRjuke/
+    lJToQYyHblKiAq/4Fdtl0Y0fgKjoqN9f5RH4oEBVXfWcIshla9CgH3rPPwOFxNiL
+    QtN3gSJp3ReCsRkaTGRwSUsLTNIre8FEkqC/Lw5GfcTxJCwp5szrTH0lLdyj48El
+    MivknGftb6aKCyuw5D16XFYGo1sC+Oz9+KPsP2gFi/ZQfqCClI5aA0qc+EGYd+2b
+    ymr3qyWYlpMX2Iy5xt+NHNqB1RBqiMc2Fti7w2rUkLYfhjSFkU5qCvd5rhlwRqjQ
+    kifAfuPoQdzmUaQynHt9ie78glFAUcln5SzWB9sbRQcejqfwYAibIagrT2n4BHWa
+    qbM/UGtFNCOiaoc38M5T9ttaRyE4EO/HzBc86Pii4CaHY4NMGDzoxiBp3dI/Fjm3
+    86NA5+Zi1CP/MPv/HswFNi73hmjEpzVnrSkhuxDDeeZDPzfwet2UMp5B0wARAQAB
+    tD1Qcm9tIEV0aGV1cyAoUHJvbWV0aGV1cyBIaWRkZW4gU2VydmljZXMpIDxjaHJ5
+    c29Ac2lnYWludC5vcmc+iQI6BBMBAgAkAhsDAh4BAheABQsJCAcDBRUKCQgLBRYC
+    AwEABQJYUM7cAhkBAAoJEEIKgLp/cQ5y2NsP/1SG91Q0r94txIxmyYK81KGmf2u2
+    B2ZEN6xY5txddJKI2MniuMIF0o0HrvFlla5FDoxQIJ3znlJ0O/w+Th5kL4ohl2/a
+    MMKuoUo9qj2gHnEqy/aLjvP3FZ+qChgO+Cqt8zYAqg9/Pa+GGW9xR63UMQfIJ3Ph
+    Qqvx7ZEba6QuhNe2XN5z9OMIZ1b8DZCM3ITg7dHhkyFbmObenCSgL5RdGJPCi/bZ
+    Qe7yQSTrNpVaT14JpF9+bcI+qvDlW1WjZUJmMFEaYw4TAsqvLbh1v0GHCQtTAZUa
+    87PRVcQpoC1Oiyg9X1NAO+ZoyTvQSuhbyj2T1Z+LZJTZbQzYBOYvsIKu58GYrLu/
+    VjW49C3RuwMdZXylrXJDZGOxI1E/uiGP4TJMO3IjrtGyFPinrEX4sglcEn8b35xb
+    eRllm88GDK2YAQAAzlfnvptJ1zosSzO3nFn84m2MRwjIwB7dh9mLOGLPMsZ6Pxql
+    ETIFOuuW3IozQkftmnBymwG1pY2EX8UX2+E3V57EivM6b2PncEbEdrAEgTfwNI7H
+    CDXgmlH6eiF0xHJmj+IbEtECX9oqHyNfQzLZEYFxhYDWLXpeFq/xCH74Fr35WCYg
+    oA0Ooo+rwTMC23pjOfc+OTisF3NFh7pfmIoe71EVZ9BTgrfUNcSMf1M2kONBkekU
+    kfnkb6t/kQsJp91uiQI4BBMBAgAiBQJYUMrlAhsDBgsJCAcDAgYVCAIJCgsEFgID
+    AQIeAQIXgAAKCRBCCoC6f3EOcuHID/4i1SqV72gMokZ2bkjSLodfBDEZUXZiUyBR
+    YoAQBMwqbBQcG5l5ljJKkAeE3YRQxF3O7pBZfQ+1pTRgl61PRDiU8typ8bIdgkKF
+    JlY3ZkUgzpKIvRCrhccrd4vxoxPZhOwsSbaQ4g2hl0ims+xZgHFvInTgJ2AWnJNY
+    MCvYoULlQFVED4Br6UOtdw2aQXqe0PKZgduVCO7gGUuTc68H/cC1TZMvdhGauZkM
+    6d6AJ0YjJh6KpdKEHCDysBw3xG9c25w/KMXhDn1plRRshcTLEkgHSZguKXK4wOO2
+    Yzgq8SPfEuQUVqWGlc3lhzf4tvCp/hkydYD3FuVRY8A1Y3AKyzD30p9eHhi+moXE
+    Edcs9QhuWigjLDO9CHZizCDxra8kytAUVaDvSfGxhwksBKFfSLhcZmMQ/C/tQ9xD
+    /qnepLqrvOv9X/TlACIFwk1z2fCv7LSmEBx8jacrN8hnJxFjwFa6Rs5PqH//oEc+
+    dPWNmlUL/0q2axqNjJaWnHCEpK85YXgFXN+7ApHyMHzLxaDwB1TXJLNYcNvDktGG
+    VMjRvwQT6upubsaklh2vxJMigImA5EIwWncpirdLi4j5XPXSRB1bMz+8F5rG653Z
+    51+vOFVaW1p0Q/cfTUQIQ3tVuFX5czvNu29zP/HF7N1WfLddkl1CXqpnZdZgt2tT
+    083CTA9xB7QfUHJvbWV0aGV1cyA8Y2hyeXNvQHNpZ2FpbnQub3JnPokCNwQTAQIA
+    IQIbAwIeAQIXgAUCWFDOhwULCQgHAwUVCgkICwUWAgMBAAAKCRBCCoC6f3EOct9d
+    D/oC8WIjmtYX96JLiyEYwYVEWuuepS0cZSd8aUiGbm5BLb7fJW1/A+BELSWaVHo/
+    8H1yi1PhjV+KVX2AWuzs5h+tdEWTbOm4VR8zM/6kisfPPw7u32f1sdwWE3Of9RAk
+    KhMsv+jXvmQqo1wNZVabcjFxyl+VdvA7oWNe2G3+7jWtdyEoNDdkdiwGsP9LkFEa
+    7lvgdTetZRTF7yPEgAEwF98rH7dMxzaWYLiGz8t0RB3XvQsTZjbbpS6rgBO88P9i
+    rCnAIitTeP0Tt2iGa7C6aYE1lUqxi9h+8qe0yZBAsUdCvSACFro5jbjDMaWLl0Qi
+    MMjjNYFkYYZCPD0nklDkLoAhqkicdUpw/qVkYW6ZIjioKR6LqE4pPPGNTP4/96ps
+    lE5mbtNeDGob/CRNR4P8wHuVHtXyUrxrPxVysAlX8GfLCU6pBc37FD0fjkcP66Ue
+    7OYRtc7iVB2/ObdFneoLgnBYYeL8Vgr/qkwcZ6IJw93+X60KAfZU/1kta/MGG7Q7
+    49PyyWxj9YHOOpkwBMFhLhicvOARMVMDLaLMgLSJarmqc6nLFjEgXxj0ZDlCjY7L
+    WFcH2pkjLU9YLddOiOpkj+ahtm9MzYpENYHj17aq9G4lVUOlp76xt1vbNykaTSMJ
+    tQg7eZg/bbm9d8WWZ+kUqbjGTpuwPiV3JoYtDkc7DhJiiLkCDQRYUM8cARAAvBBp
+    sciP+4OJbKNdg3m5yviqtFutSdmXF0EAfcVJ3U/uU9v2ghqUMzLTnKGEgCD+Ye5E
+    mTuChWwqcwO6heeYvxbNmDaE1W33WI/NmtQXaEsY5cl8zv6pmmEnZ2/atxFKoyu/
+    oU+ap6ebbwm1ELQWCQWixE+8i9jU+zh0+grRC9kkbnDSOWdrNmlLk2Xb0Okv/vHW
+    ljO0ywVkn5ql8cAduiGQKp9Gkc63nsoxz0jgsA3BaFHaeJ5Es5hqfq5N3xfVtIch
+    6UYCFLfhIFkL5lMHXtfyQ5VJRCU97dIC5575V9Wh+ZIHKK4vv7fJZpgo4/Q/BktD
+    THIoaERLpK5u2XY2vxrXUl4e+iDhhbqD+eBvMCE8B8lN8Dtve8uwti9+qUxCKwcs
+    4Ul4dni3Vz9AIf1FSLqtbp0hjRdKv6DG1a3AlFiaUuXRDErkx1a4LUt+eHXzSTPY
+    aqPVzpMrq6DAZQ7LDqV2gRlovIuFhLhwp4//GXDW0Sbo7AXR6u3EhHl5vIoo+aRp
+    XnQP3Z/jFT6ndz3R/TDx8fsdE4zT8cTc/7qQBdDMWEpjgJeLcdKgSg2vrT71epVK
+    N/TeImq2vn8Qvi8AgawLdC+eDUpr4hoJeWILFDyT6RiS5EjU8wir8zLnW3bh0Nsq
+    qN6RCvfgc/EAvCzpMeZ0NVkqwxNZd/yU1D+3kcUAEQEAAYkCHwQYAQIACQUCWFDP
+    HAIbDAAKCRBCCoC6f3EOcobMEACDinMmDy6CaiZBTZJ2fwwV8ffWzLohLG1W5qjd
+    jj9Jh+zPTviqPfNwH4gceX0afnO4jQgYloR5MinesHyl25aPPZpqRp4nT2GxrMWR
+    2A6U0pt5XSqSeRMHsfE6+BcONB2GXjE9doeG/nOw4txs2N8YxDMo+CE/eA19pPJV
+    /i3mTb0QwNBw0zdX1p0akOH4zgLGU1K+Y2yqHeWpadneVGSevLZleT1RxhAQ7yOM
+    wHfSYCXBFRIQWByc6PPbxkUsppSX1jyqh8/bvFcGVFv5+DxvggmD/ZCBSJXTm3Cd
+    rgkFABSGgICBSMQ3yHn8J1UAcEsJfowcj5j/JpreJNIrekIi+kVMUaEsBtIUgbUO
+    YF2uBo0qTMyY5CdbsE34S+eH+ymAqdMuCoUJZ+U5VBSEWmM+NSoSDp6UZ2Sm3HEv
+    Jw3eWjcmkLWyQpsViWCqRQOnhqRn3ZmYtGwYIZGW9n93GYmm0PL7Z+0aIYrN/QVY
+    CU7i+mE5OjQ/8FJaDBM7+4ZeQEo/b48PWPm4B/+k5e9zPvGmQaL+9ySNDJejvD9n
+    MtyKnOE1L60mys6r2EkBrCLsKsjgnIKsvPiRgt36jcT8cUM2Mg8EVPW/6Cme/kfO
+    9jFR0136aG5u/HWKiK0m6TY5dmL7Q+bamHbCJSGTfyO8WJJW7M5KKNsOb9fl8sjY
+    8b1MxA==
+    =/UDG
+    -----END PGP PUBLIC KEY BLOCK-----
