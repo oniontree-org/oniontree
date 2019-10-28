@@ -1,4 +1,39 @@
 name: Torum
-description: ""
+description: Torum is a non profit cyber security forum.
 urls:
 - http://torum6uvof666pzw.onion
+public_keys:
+- id: 7877E6CB238DC303
+  user_id: torum <torum@secmail.pro>
+  fingerprint: F42FF2AE17B7AC66C96793457877E6CB238DC303
+  value: |
+    -----BEGIN PGP PUBLIC KEY BLOCK-----
+    Version: GnuPG v2
+
+    mQENBFqvCL4BCACwIm40t8f638nihZUWOhhtmNzfRlUifr8+WUCYDy7/81v5DTD4
+    UI4J4YDLhE0QQjJVSPqvURryJ16YZsthJZVrJG378uZUtVcy10u/DapcW06WUYCR
+    bEIwXOJFTR/ehzNLCH8avrRqXgAZLtfQE9AgltBTL/78vh1mxEws3Az0DPt5HEdY
+    ojrP3lRegN2ktzi3RofIRhdk+jOCdnKSekgACIM489AB3wCP7IZhpSQxzx1qZLhC
+    V7MPEiNZBOGVBspIvD5L2/KsbDV7/RSNLD44MWNKOfpjuu/rjiGQqaGdlTTnRbMr
+    koPi1sPjQa1WBEeGyp7gE6escdo5iTq8GblRABEBAAG0GXRvcnVtIDx0b3J1bUBz
+    ZWNtYWlsLnBybz6JATkEEwEIACMFAlqvCL4CGwMHCwkIBwMCAQYVCAIJCgsEFgID
+    AQIeAQIXgAAKCRB4d+bLI43DA/5oB/9CVHr+7vx7xkN/f2iuYPwngqHuJODVg9Ms
+    nsCXQiR8C6O2Cw8yOnkbcU9JvjF7WJcgtv891L0CPmqlWo4XVhrcl7SyqV3l0MAn
+    j8i8rT6ygQzCyyJalhITdNzeSqyBnQFQjO7rJoZ8MRyegUoDIHoFvdc1+jc2nBBF
+    +1s7bQQOPlprT3jaxtf+99I0Hi6aL5YMnUvdwFRHHBmiyKYWH5LVgjBvCl8/cVD4
+    /FWCJ5VUGJwYNC9P+bBNoS4D1f3a3ib9nJ2qYLkl8Ef335roSEbt8H72Ni7Tdr0r
+    5TGPKLgpGxgTb1ZsLtBpD5bdIhVMfYi907yhbUL2OlyQ7DXcgrtFuQENBFqvCL4B
+    CADQTcE476clEgCYpSAsmfzGHMoVP65zhIF3EakWXruMuUM/LdUlqScvcx5ExdZp
+    YUKKhgIraarkyPwv6i0THYpfCwWYkEYPfFzJ4lpZw7MkIm0vWabxPoWbV5N9mZrv
+    14X48PKP65krZAAp/mESloWkjwaGlOuFWNEcbZQwMt2qrmUekPEZvYPpd0PMoGBk
+    hQkmfLT8LkjLF2LmT9ZaeMXkOUqk2ujs/1Gg2QcZPYUS7w6K7UT/VeGPQReRbr/w
+    3Ks4YdGyb/HdAg3Vn5V558F7WxOQWItk07iCP87mU8Mtzh02ZVTLFJUL+ZNXmYfA
+    Mld3kpglmUbfWQjRX8dapLENABEBAAGJAR8EGAEIAAkFAlqvCL4CGwwACgkQeHfm
+    yyONwwPKgwf/REVztJrCOVsXB8Mt99iwZwhRmH4U8GC1ppkvjYGptMS9CFojEubS
+    /R0xKrrnP8PON207xS5dwESQXBpf3pEij7E9W8jX1xlMOtkSTrhHTxSfPuM0qsyh
+    1LqliHklDICXxTAIZ5HqsnunCziUa1UtHOxpzJVqiqGOZpWmNIoBE2VKQaspHqPz
+    ULYZiY4mopaY/B69d3e17QGoILlHObxywM49LrcxP23s5AWlVb7hRtOaN0Y0xbHN
+    QZHxwf6yao+jbGR8hxueEmYHIUiDGzfLj1Z2K9E6zSC2qHzMQ/+BYXgiT7acYtpM
+    cRTmMvp60hrp/TAhhEZMBYF/hiBp2gPubw==
+    =TxN2
+    -----END PGP PUBLIC KEY BLOCK-----
