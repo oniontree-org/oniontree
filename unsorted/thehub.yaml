@@ -1,4 +1,64 @@
 name: The Hub
-description: ""
 urls:
+- http://thehub5himseelprs44xzgfrb4obgujkqwy5tzbsh5yttebqhaau23yd.onion
+- http://thehubdpfbw54ujdgwdhvgsaicvtc5jz4ncthfcbriny2dzsimlifoqd.onion
+- http://thehube5dbng3dwww4fhbiihruloenvh66536cot3wrpc4hvhm2bdayd.onion
+- http://thehubeebh6z6pqdy4wmxdd6d45gmchjm3xe5sdppadna7m3qtmksmid.onion
+- http://thehuboy27kracz6sdql2r7c324vrs5aok2e33gorrikccaqhvzfcvad.onion
 - http://thehub7xbw4dc5r2.onion
+public_keys:
+- id: FF8A50D2D52F4945
+  user_id: THE HUB <madeup@email.fake>
+  fingerprint: 8D8E747253A9229DB17443A0FF8A50D2D52F4945
+  value: |
+    -----BEGIN PGP PUBLIC KEY BLOCK-----
+
+    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
+    =xtMq
+    -----END PGP PUBLIC KEY BLOCK-----
