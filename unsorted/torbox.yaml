@@ -1,4 +1,53 @@
 name: TorBox Email
-description: ""
+description: 'TorBox is a hidden mailbox service only accessible from TOR. There is
+  no connection between TorBox and the public internet: All the messages are sent
+  and received within TorBox.'
 urls:
 - http://torbox3uiot6wchz.onion
+public_keys:
+- id: 7987178A3F7A6337
+  user_id: Mr. Nice <mrnice@torbox3uiot6wchz.onion>
+  fingerprint: 7BFA09DABD03DA2D7B08CF167987178A3F7A6337
+  value: |
+    -----BEGIN PGP PUBLIC KEY BLOCK-----
+    Version: GnuPG v1
+
+    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
+    =LR4l
+    -----END PGP PUBLIC KEY BLOCK-----
