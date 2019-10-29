@@ -1,4 +1,27 @@
 name: not Evil
-description: ""
 urls:
 - http://hss3uro2hsxfogfq.onion
+public_keys:
+- id: 71D45327041B81A8
+  user_id: Not Evil <notevil@hss3uro2hsxfogfq.onion>
+  fingerprint: 5CC3DBD456799EA62F9286E771D45327041B81A8
+  value: |
+    -----BEGIN PGP PUBLIC KEY BLOCK-----
+    Version: GnuPG v2
+
+    mQENBFX3cY4BCAC6rYMz5n6O8X4hid8fTUB9mtoWv5y1yIiyoPN5Z+EReY89IMMo
+    vi6XeRC6HUJrpty2OUZYS1b09vly1DwtH5V8xpRDANN/AJpyjFXfZhTd54XlHY1N
+    ttCjLKi1FMT6hZxs6etvEy5pxkpl47iFEUgE1UixcZ9XPU8gT9e9Re5NpLhgcl1s
+    7vmER2OLHt4DkM7+9F6C8bHXarbTXqk2tuHmbkWsMIUmezDRGHUo7o7jx8wLKzYS
+    5aVqLa8XEDws14XG2zNUZJRwhof05MwFui8nxVNJzacwW+NT7idCmOUoBnPmor5F
+    gcppuce+ayWel4NItd8QdV/Sn/2EWKJ+w+z/ABEBAAG0KU5vdCBFdmlsIDxub3Rl
+    dmlsQGhzczN1cm8yaHN4Zm9nZnEub25pb24+iQE5BBMBAgAjBQJV93GOAhsPBwsJ
+    CAcDAgEGFQgCCQoLBBYCAwECHgECF4AACgkQcdRTJwQbgagD2Qf/Q2kjmxNpTZF2
+    EfNBPdEahJypKP2wgz0CmFWpYIEIaUct9018SNQMF+IkstUwn22M49Wrgud2lmK8
+    IBTGrRre+oO5gh25wTho3sF6HuLIiky8SasxcxDhW32mwhOYlmBFlGHFCzQxDPns
+    XPd+AJn8r8Ye7rvsL9Kvdhje7iuhcOtvTozo7V/wzYCgHFjh+B0gO53hRBu2X+S2
+    kd4Ho8UPjufIER6e/bU05WwWQsl8gMoaZjXtpje7c62jndy8Eho9PP/fJysKbphV
+    TZWzrM+4hyBvILrI2wN8SJzH4vsgxcknetDvuxM0Iz9+JMVe30L0rmQdsx+6aY59
+    8g6mLbuRhg==
+    =+qEy
+    -----END PGP PUBLIC KEY BLOCK-----
