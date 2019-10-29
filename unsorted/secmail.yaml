@@ -1,4 +1,38 @@
 name: Secmail
-description: ""
 urls:
 - http://secmailw453j7piv.onion
+public_keys:
+- id: 0940E762BBA01A77
+  user_id: secMail <support@secmail.pro>
+  fingerprint: 1BB17DF26C773EE6188666360940E762BBA01A77
+  value: |
+    -----BEGIN PGP PUBLIC KEY BLOCK-----
+
+    mQENBFsjjxwBCADNK7sFjkf4XFHp56db9QBiREd9zOEzncR8sNjP9f+YxBRkH/TF
+    2JGe2l0K2QwMsyAmVDiqTcvuEROjbDCuSlZhPq/WznbrwiC8+5n9TLvQccNHL1gA
+    c8cBRQyvIMpQ27wbi3QwCHVX52T7CyHU2+o7/6qtYNB9UnyrgEGF7gBqrNXZ095I
+    BUjg8fI1vbet8oIyaR8sCA7BZihbgDcIIYSA1UtnjG7SZBuxR7OXCCtCB7kjGeeR
+    r9OykkkvBaLU5rNYoJHfP2ABP+Bpucnl32PycWqsJbEAXbnizyvzY2a3BUjyKTD+
+    N71JI0t6w5apj/kneSUyVdx47hhEGc0dD5uXABEBAAG0HXNlY01haWwgPHN1cHBv
+    cnRAc2VjbWFpbC5wcm8+iQFUBBMBCAA+FiEEG7F98mx3PuYYhmY2CUDnYrugGncF
+    AlsjjxwCGwMFCQWk6wQFCwkIBwIGFQoJCAsCBBYCAwECHgECF4AACgkQCUDnYrug
+    Gndtgwf+Po+52zVSEx63xtAEyFtRQLGTEf3l+AuauDiYYVXFAKPm1ojwYKl09SaR
+    nHaePOY2lCS/6U6Lcys9Lyxgv+MveIGSwH98DSAoViGQrzpkDIuDfNex7UjEtveq
+    /V3o5YawLQ9xuhU27+yPUp/B1akCQU26xAvVh7D9ttParwaE7aSwpsX8ZlyfRCOE
+    eiH5ptabjIys3NJQHfCMxwlXqyNSIXkywPKnn3okVw4NbgxmLJIWet4TqegTAER0
+    vxHRIXLWcklU1cOkctsf40PE28hdFFp3z5qU9kAF8NzL/QHG4g8ydIfgdiZ1xJv3
+    9l2dYyHQfMjt0WegERsNLDDN3EVCgrkBDQRbI48cAQgAqGOyneiIUQHJk2lH28n8
+    uVxNwDCyW9+lNkkwO2XIgFIxWhiweVxS5a3aOviIWLeFSnYA15v5BhPCdzazZoaI
+    H8f04AUfk0BmFNsFyjvL3aoQEyPJxt2vnmxVw4/eYXxE0gmxcoupJE1B1RXtMb2w
+    xlQwJI+ifPzKSVLc2a5+e8KAiXgPSj/VkLurZ8AYiOplOlkWUP9wShnY8agU8eP4
+    KSWDi/U15aqte9c+xZcMUdxy9OHNGyOUQIpRh8PNTrszws3AvIjHavlZWQ3DmRmu
+    71qJez4D3/nB+V+Mznt3eETU6Fx9w7Zc9F00b9duu9c6HIa6LDeVivhUWryCLz0k
+    cwARAQABiQE8BBgBCAAmFiEEG7F98mx3PuYYhmY2CUDnYrugGncFAlsjjxwCGwwF
+    CQWk6wQACgkQCUDnYrugGnfQKQf/QRDhld6rSy1hY0xWV2xe6mMLK5ICDDLf0mkB
+    ROBh9oQ34rUkUdH+v5DRgbbL4DXy6/ctlgcEmwYZPvFpxQLTuEoXhzFF4LcsbLYu
+    z5iFqfLllfeEX1ewWuUK1nZmkrpl3h6M8m7DbM5xanUpYSox4nkAsc1UdoEX+Bx1
+    ZIy+2wXZZIRci5oD28Trjw84FGtt7WhYZ4S8CZxYxSoY6O+nW+WQV7CsIKl4LMk8
+    iulMwmbiwR9TbKst4mXWTHQl02oAqtNKh4frPZOKVgcXtClFjskPaM4JRLK0doN2
+    9za4nceKtdoP4q/6ssOG+3uq+knE0uiDHn3Z5TnW+9LDrXuylg==
+    =gVGM
+    -----END PGP PUBLIC KEY BLOCK-----
