@@ -1,4 +1,7 @@
 name: Protonmail
-description: ""
+description: ProtonMail is an end-to-end encrypted email service founded in 2014 at
+  the CERN research facility by Andy Yen, Jason Stockman, and Wei Sun. ProtonMail
+  uses client-side encryption to protect email contents and user data before they
+  are sent to ProtonMail servers.
 urls:
 - https://protonirockerxow.onion
