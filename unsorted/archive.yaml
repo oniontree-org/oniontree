@@ -1,4 +1,8 @@
 name: Archive
-description: ""
+description: Archive.today is a time capsule for web pages! It takes a 'snapshot'
+  of a webpage that will always be online even if the original page disappears. It
+  saves a text and a graphical copy of the page for better accuracy and provides a
+  short and reliable link to an unalterable record of any web page including those
+  from Web 2.0 sites.
 urls:
 - http://archivecaslytosk.onion
