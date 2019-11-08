@@ -1,0 +1,66 @@
+name: Distributed Denial of Secrets
+description: Distributed Denial of Secrets ("DDOS") is a transparency collective,
+  aimed at enabling the free transmission of data in the public interest. We aim to
+  avoid any political, corporate or personal leanings, and to act as a simple beacon
+  of available information. As a collective, we do not support any cause, idea or
+  message beyond ensuring that information is available to those who need it most
+  - the people.
+urls:
+- ddosecretspzwfy7.onion
+public_keys:
+- id: E353E38137A35201
+  user_id: Distributed Denial of Secrets <ddosecrets@protonmail.com>
+  fingerprint: FC8F88C56C660CA4DC4D9492E353E38137A35201
+  value: |
+    -----BEGIN PGP PUBLIC KEY BLOCK-----
+
+    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
+    =wROk
+    -----END PGP PUBLIC KEY BLOCK-----
