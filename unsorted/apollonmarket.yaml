@@ -1,13 +1,13 @@
 name: Apollon Market
 urls:
-- apollonujscjrlng.onion
-- apollonl43274j26.onion
-- apollonxilywevef.onion
-- apollonwmwenxcwa.onion
-- apollon5e246vvhj.onion
-- apollon2tclejj73.onion
-- apollonvm7uin7yw.onion
-- dzcolkv7tur5ajw3.onion
+- http://apollonujscjrlng.onion
+- http://apollonl43274j26.onion
+- http://apollonxilywevef.onion
+- http://apollonwmwenxcwa.onion
+- http://apollon5e246vvhj.onion
+- http://apollon2tclejj73.onion
+- http://apollonvm7uin7yw.onion
+- http://dzcolkv7tur5ajw3.onion
 public_keys:
 - id: 8BD17F553139FB08
   user_id: Apollon Market <apollon@market.com>
