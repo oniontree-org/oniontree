@@ -1,9 +1,9 @@
 name: DarkBay
 urls:
-- darkbayupenqdqvv.onion
-- oh33m3pka6lvc2sb.onion
-- zwcgtqtdviw7gkbn.onion
-- bfc3czua5idp5d5y.onion
+- http://darkbayupenqdqvv.onion
+- http://oh33m3pka6lvc2sb.onion
+- http://zwcgtqtdviw7gkbn.onion
+- http://bfc3czua5idp5d5y.onion
 public_keys:
 - id: 7C87C9482AD0D8D1
   user_id: DarkBayMarket
