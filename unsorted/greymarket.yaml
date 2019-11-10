@@ -1,8 +1,8 @@
 name: Grey Market
 urls:
-- greymtqdzxqec5ox.onion
-- greymtjdnzgc2ok7.onion
-- greymtfzg7d5jdrk.onion
+- http://greymtqdzxqec5ox.onion
+- http://greymtjdnzgc2ok7.onion
+- http://greymtfzg7d5jdrk.onion
 public_keys:
 - id: A2F330E58DC304ED
   user_id: grey market
