@@ -1,15 +1,15 @@
 name: The Majestic Garden
 urls:
-- tmglsdiax6dhx6iasbrokghhv7553a4cqc374tcgkvgl3xmp6z5t5myd.onion
-- tmglsdhn6f4hiqvbe36cdccecgb2lyf5wpmpbrzlqecosbndo4bhkdad.onion
-- tmglsdg534uilrgon7s4mzxwnqru77i6nnxrhyutfwygmzna6dbh7hyd.onion
-- tmglsdgex3yyvbmpon4umcnpwwj2v7ffqyibnwiqq7dpa36pjtkeifyd.onion
-- tmglsderq74ddjarlx5seo3ug6x2d2eql3zevyytiwietbnonvwk3fyd.onion
-- tmglsdfyluanmfqqqugzdvmuh7ndnpu4qtczw6ms5tttgacpwouiuaid.onion
-- tmglsde7uimkreyqpj5ic7fbmkr4n33osmlxgm2lmusk3shvmnq7nnqd.onion
-- tmglsder3bb6jpku2isej7zm5pel7xyqfkophd33ai5c2owhn6ksu5ad.onion
-- tmglsdczzl3qmjwkt2shdih5ua54ln2p2e3ebc36za4ocp6kkva63aqd.onion
-- tmglsdds6usxqsghympkjfbddume3olbvpqdrpxvcxplhd4z7bxucdid.onion
+- http://tmglsdiax6dhx6iasbrokghhv7553a4cqc374tcgkvgl3xmp6z5t5myd.onion
+- http://tmglsdhn6f4hiqvbe36cdccecgb2lyf5wpmpbrzlqecosbndo4bhkdad.onion
+- http://tmglsdg534uilrgon7s4mzxwnqru77i6nnxrhyutfwygmzna6dbh7hyd.onion
+- http://tmglsdgex3yyvbmpon4umcnpwwj2v7ffqyibnwiqq7dpa36pjtkeifyd.onion
+- http://tmglsderq74ddjarlx5seo3ug6x2d2eql3zevyytiwietbnonvwk3fyd.onion
+- http://tmglsdfyluanmfqqqugzdvmuh7ndnpu4qtczw6ms5tttgacpwouiuaid.onion
+- http://tmglsde7uimkreyqpj5ic7fbmkr4n33osmlxgm2lmusk3shvmnq7nnqd.onion
+- http://tmglsder3bb6jpku2isej7zm5pel7xyqfkophd33ai5c2owhn6ksu5ad.onion
+- http://tmglsdczzl3qmjwkt2shdih5ua54ln2p2e3ebc36za4ocp6kkva63aqd.onion
+- http://tmglsdds6usxqsghympkjfbddume3olbvpqdrpxvcxplhd4z7bxucdid.onion
 public_keys:
 - id: 6C7C55160046FB6B
   user_id: bodhi
