@@ -6,7 +6,7 @@ description: Distributed Denial of Secrets ("DDOS") is a transparency collective
   message beyond ensuring that information is available to those who need it most
   - the people.
 urls:
-- ddosecretspzwfy7.onion
+- http://ddosecretspzwfy7.onion
 public_keys:
 - id: E353E38137A35201
   user_id: Distributed Denial of Secrets <ddosecrets@protonmail.com>
