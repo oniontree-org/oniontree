@@ -1,17 +1,17 @@
 name: Samsara Market
 urls:
-- amonelidbdizstxk.onion
-- samsaraccrn2jmin.onion
-- ibxcmwhujh65bonv.onion
-- znsomnia3qpgwone.onion
-- dutfguflye57uphq.onion
-- zudtuaqrt57miwt4.onion
-- bv6yae6bigarx44h.onion
-- gg6yub3fxmy3k5oj.onion
-- sbdvzjhqjoodrzds.onion
-- paieqfjlf45iwjeq.onion
-- 2skidbptsjf6gwul.onion
-- jbkikaterm2zwyxr.onion
+- http://amonelidbdizstxk.onion
+- http://samsaraccrn2jmin.onion
+- http://ibxcmwhujh65bonv.onion
+- http://znsomnia3qpgwone.onion
+- http://dutfguflye57uphq.onion
+- http://zudtuaqrt57miwt4.onion
+- http://bv6yae6bigarx44h.onion
+- http://gg6yub3fxmy3k5oj.onion
+- http://sbdvzjhqjoodrzds.onion
+- http://paieqfjlf45iwjeq.onion
+- http://2skidbptsjf6gwul.onion
+- http://jbkikaterm2zwyxr.onion
 public_keys:
 - id: 3B3249C9B6E3AE08
   user_id: Samsara Market (A World-A-Way Pty Ltd) <indighost@creadev.se>
