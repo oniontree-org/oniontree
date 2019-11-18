@@ -1,0 +1,62 @@
+name: Monopoly
+urls:
+- http://3v6xtcduey3noinwtfsqegvpqbm64s7bsixobihb5u7kbt7nh5sda4qd.onion
+- http://vslh4gfv3nbdsyjlz3oj7b4faccvujdott3wakasrnzjbatq6mtc3kid.onion
+- http://edjh5wb6j2rdxux57wnpzykklso4lo6nranzfcdgkg3maek4w5tqw3ad.onion
+public_keys:
+- id: 1D51DC2FFF5F41A0
+  user_id: Monopoly Official <monopolyofficial@creep.im>
+  fingerprint: 8FA2A1D92716AD5E30D328921D51DC2FFF5F41A0
+  value: |
+    -----BEGIN PGP PUBLIC KEY BLOCK-----
+
+    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
+    JaDPFeJMczaT
+    =Ba9a
+    -----END PGP PUBLIC KEY BLOCK-----
