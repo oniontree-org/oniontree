@@ -10,7 +10,7 @@ public_keys:
 - id: DAEE08AACBD239F3
   user_id: Cannazon
   fingerprint: 7688834E557D08C4186E2BDEDAEE08AACBD239F3
-  value: |-
+  value: |
     -----BEGIN PGP PUBLIC KEY BLOCK-----
 
     mQINBFqUgoIBEADEXkts5n4mxa7x9CXLgLgmQJqpJ7foeBLb5yvJd9XrICcAnGlF
