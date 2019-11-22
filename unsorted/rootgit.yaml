@@ -1,0 +1,4 @@
+name: RootGit
+description: Public Git hosting. Most likely a tweaked instance of Gogs.
+urls:
+- http://rootgit4rghbuenb.onion
