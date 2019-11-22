@@ -1,0 +1,9 @@
+name: Whonix
+description: Whonix is a free and open-source desktop operating system (OS) that
+  is specifically designed for advanced security and privacy. Based on Tor, Debian
+  GNU/Linux and the principle of security by isolation, Whonix realistically addresses
+  common attack vectors while maintaining usability. Online anonymity and censorship
+  circumvention is attainable via fail-safe, automatic and desktop-wide use of the
+  Tor network, meaning all connections are forced through Tor or blocked.
+urls:
+- http://dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion
