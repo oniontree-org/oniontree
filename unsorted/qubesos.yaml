@@ -1,0 +1,7 @@
+name: Qubes OS
+description: Qubes OS is a security-focused desktop operating system that aims to
+  provide security through isolation. Virtualization is performed by Xen, and user
+  environments can be based on Fedora, Debian, Whonix, and Microsoft Windows, among
+  other operating systems.
+urls:
+- http://qubesosfasa4zl44o4tws22di6kepyzfeqv3tg4e3ztknltfxqrymdad.onion
