@@ -46,6 +46,10 @@ favorite text editor or use our ever evolving
 Before you open a pull request, make sure your contribution meets our [commit
 conventions](https://github.com/onionltd/oniontree/blob/master/COMMITS.md).
 
+For less technical contributors, feel free to open an
+[issue](https://github.com/onionltd/oniontree/issues/new). A member of
+community will handle your submission.
+
 Please note that this repository is not trying to be an exhaustive list of
 hidden services. There are others that already do that. Check if your
 contribution ticks the following:
@@ -64,6 +68,6 @@ contribution ticks the following:
 
 Found something that violates our rules?
 
-* [Open an issue](https://github.com/onionltd/oniontree/issues)
+* [Open an issue](https://github.com/onionltd/oniontree/issues/new?labels=report-abuse)
 * Email to `onionltd` at `protonmail.com`
 * DM to [@onionltd](https://twitter.com/onionltd)
