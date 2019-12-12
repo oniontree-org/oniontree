@@ -1,0 +1,6 @@
+name: Tor Metrics
+description: Tor Metrics archives historical data about the Tor ecosystem, collects
+  data from the public Tor network and related services, and assists in developing
+  novel approaches to safe, privacy preserving data collection.
+urls:
+- http://rougmnvswfsmd4dq.onion
