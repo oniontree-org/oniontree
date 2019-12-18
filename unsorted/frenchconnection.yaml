@@ -1,3 +1,59 @@
 name: The French Connection
 urls:
 - http://abyssopyps3z4xof.onion
+public_keys:
+- id: 93A5BC8C4069E062
+  user_id: TheFrenchConnection (TFC) <TheFrenchConnect@yahoo.com>
+  fingerprint: 96E2D68AEF939DFBE684111E93A5BC8C4069E062
+  value: |
+    -----BEGIN PGP PUBLIC KEY BLOCK-----
+
+    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
+    TUfMlZev8YIL0UTf+JF5g2Ra5II=
+    =Zcn0
+    -----END PGP PUBLIC KEY BLOCK-----
