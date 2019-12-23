@@ -1,3 +1,58 @@
 name: HiddenHands' Ket Shop
 urls:
 - http://hhstoreokdfyanf3.onion
+public_keys:
+- id: 5D74CD136D3780FA
+  user_id: HiddenHands
+  fingerprint: B9017B295F0B55281CDE95D05D74CD136D3780FA
+  value: |
+    -----BEGIN PGP PUBLIC KEY BLOCK-----
+
+    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
+    =CI91
+    -----END PGP PUBLIC KEY BLOCK-----
