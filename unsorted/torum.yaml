@@ -2,6 +2,7 @@ name: Torum
 description: Torum is a non profit cyber security forum.
 urls:
 - http://torum6uvof666pzw.onion
+- http://torum43tajnrxritn4iumy75giwb5yfw6cjq2czjikhtcac67tfif2yd.onion
 public_keys:
 - id: 7877E6CB238DC303
   user_id: torum <torum@secmail.pro>
