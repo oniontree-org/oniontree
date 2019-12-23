@@ -1,3 +1,37 @@
 name: MedicineManUK's Store
 urls:
 - http://medmanukmb2cdmfq.onion
+public_keys:
+- id: 95D4DE351D686B92
+  user_id: medicinemanuk <medicinemanuk@medicinemanuk.com>
+  fingerprint: 487CBF8FA1B9162653240A8495D4DE351D686B92
+  value: |
+    -----BEGIN PGP PUBLIC KEY BLOCK-----
+
+    mQENBFhgI6UBCADBahaS5an3BLtn7IfqpMKheUmGF6qD+2UXWK3sesBs0++Zd7nA
+    pi2FSHIo2qxcIB2Kk+yrjrwO0+eR/zZpZB1+0y13Bgk2GGdQPCkpyYpaReiH+xMC
+    9S+SEubOmL5+OxmXAtWf/4cWxOmniAuqkurNfVvSsrIAylLm8h+GiD/aM1stS9wv
+    XCnK9uxGZHsWyrnFQrQYI7ZsVneZlPWc8Sj95oeOlGV4eencXOdCR1H6nvJQSfBm
+    vcpu2Tj6OkzISctQ5KRtR9sH/FjfKHCqX1xbVQaMCfGq3SIIPvMe/MRgMlp01Pu+
+    lPa7sEkyCnXgWkBZ49xq5CpxhHlw5ss1AMrPABEBAAG0L21lZGljaW5lbWFudWsg
+    PG1lZGljaW5lbWFudWtAbWVkaWNpbmVtYW51ay5jb20+iQE5BBMBCAAjBQJYYCOl
+    AhsDBwsJCAcDAgEGFQgCCQoLBBYCAwECHgECF4AACgkQldTeNR1oa5J+GQf/Tjie
+    cvhARhrPX5SE4lqY00azvhJfimDF51KZOP2eJNbEirtiYZWR+H78sKlisJGabTnv
+    bStiBcHeyHw7o3OIu4gR9yXx331VrZsOh5XFvF8ZlrVF/RfD+iG5iPFsAHy0jxM+
+    WwmTSNWSaMk5aecG0AG/WA1c/D35bXvdkB5tW1Ev/yyUpj09RI5RZZAznRUyWhds
+    P69OPC9dotUE0NF8YhaIccoE1czUsVVxJknsD4d71h/xKa/SOShA+3tetXmmbw6C
+    vgOCC8tbtRNSyBUkzidm1dqLJbUMhlWZt3KbnlWs3xJBxhnOyeD8DeYFl41VhioK
+    0vmLhyU/uIggdJm2wLkBDQRYYCOlAQgAtNcDiOG5tjFWWhECHO5Jf4mkBoRZhfAx
+    MKCA4kphwWCDgVMBp0onz51/TANWwVJPX3b8TMFBjchRsd05Gfnb00SbavqoQNCc
+    xfhG92pBZVp+EgWQTb/RjrFtx5TpIuMo7ya3VGlzRiEnVVjceihqing+moEbAPFD
+    qbiAwt8HJHWm/AdE6WotMW3KhkNmzGLBLmf3G/2/X13uNOe9kRI73dUqAp8NgQRU
+    ZreDvlu2enBMFiMCbV/ZxBbik5iEmIGpoS+d5hFm4sCEaAYzFErH/SbzZXVnmCwR
+    lC/AdUH5S5l+9LOhlLzermeUUffhdesrPxjOv5dcWxiAGGai+uV/3QARAQABiQEf
+    BBgBCAAJBQJYYCOlAhsMAAoJEJXU3jUdaGuSAjsH/0FZZZ3ZsjRaLlhAeg/+AOao
+    mr2Shs4OSA8EaCaM8tV+kwykozzK3n9TFJuuQvfuM6c+HmKhdFZ1mKJygRYSEN+n
+    pBnjFoFMqCwaaw9ytF/OX5GDg0/n2ymsmlgsD7Euyq2xYSy2T739MiEXm5s1Tden
+    R+s9uBZ7WPCt4Fm/gsguJiJiY+IfEur0Ldg36vrFksViNBfEW6EKUJ/99Q5Os9Du
+    cKbWSIVWXT9FX92y3czDc5kc/7UWbt5OgWYCVkh2XJSd/CvpRsR/jg/wd92Yht7a
+    40k3xYVLV8WdSGtXxwuU/Ifl5IzblPA/KlpJNUbGb33J2NFFTyTTjb/pwrC+xwU=
+    =yb3A
+    -----END PGP PUBLIC KEY BLOCK-----
