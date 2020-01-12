@@ -2,9 +2,66 @@ name: Envoy Forum
 urls:
 - http://envoys5appps3bin.onion
 public_keys:
+- id: 86310574819F07F5
+  user_id: Witchman05 [2020] <witchman05@secmail.pro>
+  fingerprint: 9A983DF7A33EA466EF7B52D986310574819F07F5
+  value: |
+    -----BEGIN PGP PUBLIC KEY BLOCK-----
+
+    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
+    0ww53V+b
+    =BQIX
+    -----END PGP PUBLIC KEY BLOCK-----
 - id: F08ED61B3AD3818C
   user_id: Witchman05 (Witchman05@jabb.im) <Witchman05@secmail.pro>
   fingerprint: 0EA18D8868EEED653410D134F08ED61B3AD3818C
+  description: Deprecated, use the new 2020 key.
   value: |
     -----BEGIN PGP PUBLIC KEY BLOCK-----
 
