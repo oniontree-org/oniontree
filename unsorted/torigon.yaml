@@ -1,7 +1,6 @@
 name: Torigon
 description: Torigon is a cyber security forum connecting Russian & English hackers.
 urls:
-- http://torigonn6jdlsmga.onion
 - http://torigonsn3d63cldhr76mkfdzo3tndnl2tftiek55i2vilscufer6ryd.onion
 public_keys:
 - id: 233A5B602C68B91E
