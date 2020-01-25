@@ -1,0 +1,41 @@
+name: DrugRoutes
+description: The objective of the project is to map the successful and unsuccessful
+  deals of drugs based on the origin and destination of the deals as well as the types
+  of drugs. This website shows the average rate of success of deals.
+urls:
+- http://4h635ssto4t7ryhqyb4z4kax57f7iheoz7gg62ufp7dp6w3j67bjdhyd.onion
+public_keys:
+- id: AB8997683676346F
+  user_id: ddhetu <david.decary-hetu@umontreal.ca>
+  fingerprint: E0479D6B7894A90924D2D852AB8997683676346F
+  value: |
+    -----BEGIN PGP PUBLIC KEY BLOCK-----
+    Version: GnuPG v2
+
+    mQENBFYzxaQBCACicP+GVQ8KKA8xb1phVlKijfYnafN144XG65/sHO7l3D5rzFEv
+    V75tFaSgS/yg66nqR7H+2dl/ImYT1oh7NAKCLHp4mIzsoYLdtgVNsoaLR8lM8Cq2
+    k9VKtymPQiJKBdwV6ngts+rFsljwqKI4UTYIjot7v8fHihnecRz02XbgFHWHPydZ
+    yCBxX0IHcz4mTdf1iRhYmWZN3IEMzKJor8UpHTl4L2x0Jgu6suRcsp+syguPPlhb
+    uSLwO/OHE1rmCJ9AqJ4fPOKJf/91t3gKjJT//vdTerp0C3XXUitL0MTtn6xAMZFm
+    cIf2hvpZyNANGfufcnKfwnOOrACQXM+mz2NfABEBAAG0J2RkaGV0dSA8ZGF2aWQu
+    ZGVjYXJ5LWhldHVAdW1vbnRyZWFsLmNhPokBOQQTAQgAIwUCVjPFpAIbAwcLCQgH
+    AwIBBhUIAgkKCwQWAgMBAh4BAheAAAoJEKuJl2g2djRvSZEH/1R33awkPpCzCVwm
+    q18hR5ykkZnjLPLRSOThKu3JUzFkFs5BzeCchROSW+nWTYv0qVeRlZNHzW/EyWUg
+    WSZOu+PIHpZmMf8S63w0/d1eH2nElQzDe2JupgCn0Wef6RpidG9MOtDPQW3gMXGF
+    t3kPbNzLbPyI9rvC80swxBS8837eQ7AMKcbbRZncyMhXdSToSVZh+OgEF/Cqyi/G
+    N7QKCAav8B6QxAMeAYaqrlbelzpl46YwaEwfP/tfBewCgNldjifXxUY6tvMFHc/n
+    lSg92eTFmPdXFSPRqqw0ibR5jzRrybfaAA0iSmcbNTq5NMVYyotJbb9QeLdu6fi1
+    5eyRNea5AQ0EVjPFpAEIAKMSSJD9i6zbIk+NCMRNkUVPioaabQdikhmElZsEZBrL
+    fkKhufhcVB08UEkFnBNp64bAIb3HiR4p0Xnj0R7GhB5l0fypTAQSK/SCpX305Y6Z
+    F+yytwIFMT+O22UCRtyCiuLmRLdkmOLWqBkqoVtgwuE/zvBhtIterMp0AEzn2Slp
+    9FPPx0+PquyDIenbSQTzX7rQ0QEexV4SYSAcRcT5yrgn/oA49eZguNMu1waPNjyt
+    +R4M/QIQIPfTRbiWOJA/F+a8335OnCJ4ZdwyYHU4kXZjyeqw59ZRt0WHXzfrnoup
+    uPcIWmEwY1e9X1jNz2fJCdpvktzWL/EkEOOUFh5KIR0AEQEAAYkBHwQYAQgACQUC
+    VjPFpAIbDAAKCRCriZdoNnY0b/soCACDaw8U33QDMiF4x9TIsqjry3UAAT9hbCl5
+    bAf7g5VQttRqHwjHk24BrVw1A20J675MQAzdTMXx/cklIkhiit3ErRQIxoSUu/8t
+    GCma5l1SVZ2Jy7rzw9co4fulC3/TvA/ypXeVg16azVf4THJlFvttlwH2RLvjjdyc
+    H0EJS8kzlR+d8km8oxgx4Vlp9Ok0J84yktI9t0TmtY1MGCFALivqY040/U4VDcd4
+    QRADJsTrOij6cWlDyyJ0ckRre8+s3r89r5+oLJaNGARbMim2LoraXrgV0i1PcfgY
+    DQNJl3R9u65wnQpGvtTYdgg8AJePmOU7Y/0WjusudvTwD3LqtlV1
+    =wWqn
+    -----END PGP PUBLIC KEY BLOCK-----
