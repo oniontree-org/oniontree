@@ -1,0 +1,8 @@
+name: Riseup Pad
+description: This is an etherpad service hosted by Riseup. Etherpad is a software
+  libre web application that allows for real-time group collaboration of text documents.
+  Riseup does not store IP addresses, we require https, and pads are automatically
+  destroyed after 60 days of inactivity.
+urls:
+- http://5jp7xtmox6jyoqd5.onion
+- http://kfahv6wfkbezjyg4r6mlhpmieydbebr5vkok5r34ya464gqz6c44bnyd.onion
