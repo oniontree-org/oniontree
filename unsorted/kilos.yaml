@@ -2,6 +2,7 @@ name: Kilos
 description: Darknet Market Search Engine.
 urls:
 - http://dnmugu4755642434.onion
+- http://mlyusr6htlxsyc7t2f4z53wdxh3win7q3qpxcrbam6jf3dmua7tnzuyd.onion
 public_keys:
 - id: 8B8236535FA73E00
   user_id: Kilos ugu (dnmugu4755642434.onion) <ugu@firemail.cc>
