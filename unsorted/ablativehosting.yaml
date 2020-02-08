@@ -1,3 +1,41 @@
 name: Ablative Hosting
 urls:
 - http://hzwjmjimhr7bdmfv2doll4upibt5ojjmpo3pbp5ctwcg37n3hyk7qzid.onion
+public_keys:
+- id: 1C03D3FA1D664961
+  user_id: support@ablative.hosting <support@ablative.hosting>
+  fingerprint: D8EFEF1CA184DE5B589DE62A1C03D3FA1D664961
+  value: |
+    -----BEGIN PGP PUBLIC KEY BLOCK-----
+    Comment: support@ablative.hosting
+
+    xsBNBFlmO/ABCADUzOOKGxeg7xap51ZP66WQYvH4l75CyoJ7feUehmn7iD8h
+    hB4sCDvCo4e3y96nm5y6UV55pLEOx/WlRDPxJxGH4zBe41hbb2+kGEuUfq14
+    F4gP0XaJk7XWgcU1tlZ1oBmYjMU3nzo2M9uZk2EZVzRKlpayJ9o99W1335BT
+    p+1HBQUzwrk2rEj7dlOjBNP8nE7tUvLcc+ztmuYWVxBHm45Lov7d7xJjHHzQ
+    itDtRpAQydPIHiwBGRScIXbrbXdN4+Ry/rwrYSFEmlhIYbEUH2bW3KMMnjHe
+    /sQIOGVxJT6R4pZmVEKU1O3pAFXpom0DYPnGgrWb4bzOisTMBSBeR2RvABEB
+    AAHNM3N1cHBvcnRAYWJsYXRpdmUuaG9zdGluZyA8c3VwcG9ydEBhYmxhdGl2
+    ZS5ob3N0aW5nPsLAfwQQAQgAKQUCWWY78AYLCQcIAwIJEBwD0/odZklhBBUI
+    CgIDFgIBAhkBAhsDAh4BAAoJEBwD0/odZklhnFYIALLfUcwQIpVr60rQUYWm
+    x0QTkCt5yUBK8p/o2HYvLMAnM57N56hCvj13JeKZ9losJcMlJWiWMCQuaNfX
+    mWQOraKGaEiNlyD9B88X4G/g87bMVdw07gGUBf469Px88sGEaxA9kLNXqUgd
+    izepYB7E4yxBfVwA4IipP9Zaqfj3wJGh2fzwgCr+kvRz/i+tZpbV++6GkEKd
+    4VD8gBOhZtuPQPAMArFgcENoyqdpicSo1Qr+eEsRmW2Z2t6Vx549obVk2fpS
+    szcuHl6TA859+uTzcG0zKT9znok7oOP1mURAMZl8we/wDBPA6b1Mc+KQ+RJ3
+    sJGoVfgNfYN1FrJ/htZ3ewnOwE0EWWY78AEIALfxn9XenlZVfnl9tXsAriEh
+    lGTH9FFzqYsxKkoXr9tMBzrOhXqCKbGWkHjO8qMj+9pfO9jRr7Ms6ohsxejt
+    jJ1jCzes95NviHqkfJ4GTf5B73prXKIQ58UZEDifkjHGlUK5zZNdVEKDx6Oh
+    llJe7SdS3V+ksmF79NS8plJVBwK0cv0EAe601RljN1Vguqd9J1wRM4LLx2ir
+    A5gL7qOmWGIZCCxRGAzWloNTDs4u1gIedfBBfXIl4aDwMD92YMLUnV0pJsxy
+    G7UFQhJ7/Rn1Q6FHQ/clEaaI18qONh8a+pTF0gxRi3FzVkYh+ORQQ0PN0J5n
+    XmGR6lQ3+P8zeK7Zs6MAEQEAAcLAaQQYAQgAEwUCWWY78QkQHAPT+h1mSWEC
+    GwwACgkQHAPT+h1mSWF6+gf/VHqxPK9AAenK8kgMVPYyYyYEFM4Sq206TQ+K
+    iX7QXi7ypHdSyV9KeOic2essZJoe/5wK0Y5CYGx5f9BymYWumbznBDH4ZUMB
+    30MYWfE4UtymfmFeF8xj3fCFyALxdd4fI2o/MmiEsDlkLj9aWb3xzU7jkZ6e
+    tSTCn6Cxx4oqbB8p6IaKGCeLbvDuDOxZ0Aj+TOEOadb667Wg5JttRpzrTe7a
+    hKU9it/n1Ggo17U6gfn5zM8LBCcL+/lYIn+9NfXtRua3vSDYypfkXSqYdsa3
+    IZOdFHFUKuIH3J1ueCX1GKYpkQJ+o8MYrXwwF9KxiMU6MH4TEGDG1FUgUY2r
+    Uz2M2w==
+    =L7j3
+    -----END PGP PUBLIC KEY BLOCK-----
