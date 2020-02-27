@@ -1,0 +1,113 @@
+name: ToRRez Market
+urls:
+- http://iwkwcpzxxynlz2hmhdiwrtcseh7aqhmd27nhriqwowe6sbdee4feiwqd.onion
+- http://yxuy5oau7nugw4kpb4lclrqdbixp3wvc4iuiad23ebyp2q3gx7rtrgqd.onion
+- http://lstkx6p3gzsgfwsqpntlv7tv4tsjzziwp76gvkaxx2mqe3whvlp243id.onion
+- http://csqxthz2ubrt4tri6yjj47udgc73tsgxpixxscdcyufsf6hhsxreiyyd.onion
+- http://7n6fuvldgjhultyuhnqtdgwd6x5sm7hdnm3oian5gofuhfsi37j4onqd.onion
+- http://3ezbpwjyzr6uhv7gyaaokkkwfuw4boqgmugn2vf7n4yyo72nhbenv2ad.onion
+- http://333f7gpuishjximodvynnoisxujicgwaetzywgkxoxuje5ph3qyqjuid.onion
+- http://uc6boufycqylsuyg2dgqjlwaezurdwbbklzr2b7ggpqyaib3rzfontyd.onion
+- http://7l7lvwnzaxn2if4z6zxiph4vfludppt4hy227dvbxx2f7cuqvw6lexid.onion
+- http://f3dxwzcmojrlphehqwcecwe3amg6rkzgilcn4xqxmaiezoedijf6rtid.onion
+- http://iho2k75mrbt7kqfelzzmo7o336yn3hnflovrvum3wblgumoapknto3ad.onion
+- http://bazewgqq2mbbu2eyspgfyzch6q7nzwn4zkx64n352a5i6idw5irywoqd.onion
+- http://skizkpkmnpn2yygsbwbbhn2kjxacola32qwidqbrpd2t3i34fyqleuad.onion
+- http://mmd32xf6ypt3f6ta5qo3jizrhkbw7sescbhgh4ebbli3uojxqcfw45qd.onion
+- http://4jz3jtgjnbrcl7h6qflgx6f35ejqb4a3xb6ubquvcazwr5uq6ockhiyd.onion
+- http://fznroqzp6jt47p4i65gyaurlppcljv5n3sb6wvhbeieyfhuuxsxeapid.onion
+- http://utkfe32tq3licxcztqwvoavqsv2acuv5hr7fh6w34vd4c7o22slb3gqd.onion
+- http://uo63vrnr2gevteyqo4vllut46abpa5i5aqjcld2neyxdewi6igfuekad.onion
+- http://sdlgnzxglsflfwfdfkjv7dwiehxtnz442n4wp3ai4oe44gdbggbabkid.onion
+- http://pwfr2dblnqpnw25iwgdrktklr3yrbjjyh5ijyxzuhhtq3kvbuhmcqcid.onion
+- http://v6shteil5rcvvavq2oveayvj4bxkj52yfknja4zmym2o7ieozulfmgid.onion
+public_keys:
+- id: 071DB067E5021ABC
+  user_id: ToRReZ Market <torrez@local.host>
+  fingerprint: 605B10524FDB979938B7B4A0071DB067E5021ABC
+  value: |
+    -----BEGIN PGP PUBLIC KEY BLOCK-----
+
+    mQENBF4vM/QBCAC1F1qy7NYw26PnIfRaHiGW+cWqjCoxBzybsjm5CWNzGtO4Y1UI
+    a27Wvzl4FGkbl6TFNDfiZogH9mUDgqiiBtw9WauMbIiS/+nnsw79EyNXyUxBBQ8+
+    Si74bhU12ul86FffOL2JhwK8N8s/4pFhtupc8a4e61XqrRuOOQ/WQyHhxmkG9cS3
+    7EpuJbDktCDzTLchVEc4K6HeZOczR1nJebIiB8pfwU5nKnD68xY7UU5iUL8Q8jpp
+    hXgPbeuW2fxbPTXRfvNPjgktoMZV/QJua/1Nuxa68E3pDM/wwkComGBsFwfRc21r
+    MKnp+7z7FZ52BB2D2riLGfBYoyTm2Y2lvi/5ABEBAAG0IVRvUlJlWiBNYXJrZXQg
+    PHRvcnJlekBsb2NhbC5ob3N0PokBTgQTAQoAOBYhBGBbEFJP25eZOLe0oAcdsGfl
+    Ahq8BQJeLzP0AhsDBQsJCAcDBRUKCQgLBRYCAwEAAh4BAheAAAoJEAcdsGflAhq8
+    SisH/1kWlodQFO0hY9Akb5DlipCdUnw782HtiVQSpBjlNl7lXWijj3zo7d9li603
+    cS6y4LCCJNWWLscqENCbYlw/M6mpOLiFb/rIuzDwwF5kYMmaRRUCIsRa0lR4i/zz
+    A98m+eFDLvLo6e1RkuuDV/o9HCOfXbPAIh0H7DVpIalsu+D8Zkkrt1ZbvFre+6GJ
+    lHUCnIgINx6wJRSLyJ+bQwz5nds0zHPJxUJfdkRTmn1a7piUh4WwF4QNqa7bBMDV
+    DkITFx1bJ4AOpW6B4ndSNzTkiutw0db72jPNbY5TO5IK0DcXN+EXcbU7FdvDnPWq
+    JUdJYWAf+gKGvknHntH57fLbF4G5AQ0EXi8z9AEIAOt39RSLQ8ECqqF2KnzsZOw8
+    oBLTt68LYYmJmo5x7H1gBOS4G6iDLXPHAEzquCfjuDTinf+Z0HiSet/AoPKXuBo2
+    mfz3EXk5E2JQRXISdBxjTkygxpgYgnIBt8Ph4N/a2IsmDlxnOwxnCEFHriDO6o+T
+    CQtDWhUIGE2uyOr39YLQ/DW/TmkbGO39aa+EpmP0H66FJKvkSoqkN9EXpwc/keYN
+    Er/rPd0vt7IkBTL7+H5i2a1L0weP2RDHzYyPX3yejt/zJxYDqomLQEG3+7ILPFVh
+    /tZE36gWNnQu2zMENGgVXE51JhejzvRprP1q7J2r1Zx2VXNZImjyhJrY02VImGsA
+    EQEAAYkBNgQYAQoAIBYhBGBbEFJP25eZOLe0oAcdsGflAhq8BQJeLzP0AhsMAAoJ
+    EAcdsGflAhq8PPoIAIwJbBP1gyOcPntQ6euIQGkAptLj3C+aZN9C+vxuvmCBorRx
+    FIncEWK/uaZJp/IuVesMZZVZRG1OTdyM5xLPNpQTY/q/7oFXMCGQDxPASNRHqiA2
+    pF4J8ZEqwyIp1fN2WFXpbmEIsXpo56Mb0hCEpLY1GJTUIEEPjj6DApmc1KGkNB+P
+    9DOUDSjK0jyyS2q6Gof1uRS90yYODlRJPLg8vTo0o4gWkXkNjDzx3lvP883ECKSh
+    sRs9lXfQGRoy6q8ZgMX0bPG5hyjdrtulCHv1VZ3Fk/7pZdKjozeeSJsMDgGIe4Ux
+    kdm400ByHpTxFpStzkXusHFTaLDiFozsT3sUaHc=
+    =/iXt
+    -----END PGP PUBLIC KEY BLOCK-----
+- id: B918FC21B5429828
+  user_id: ToRReZ Market <torrez@market.com>
+  fingerprint: E03364093023AFDB2A231C9BB918FC21B5429828
+  value: |
+    -----BEGIN PGP PUBLIC KEY BLOCK-----
+
+    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
+    =8NOC
+    -----END PGP PUBLIC KEY BLOCK-----
