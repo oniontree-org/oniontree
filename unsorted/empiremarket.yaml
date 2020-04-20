@@ -1,6 +1,11 @@
 name: Empire Market
 urls:
 - http://empiremktxgjovhm.onion
+- http://ogiipwllcj65kandyqal6r6276or4lilc4jlinwawmzjuhljvkm4fkqd.onion
+- http://erj7kwqkdkl73ewsuq6stztehx2tehk2aidxlex3btrfnjqax3ucvgyd.onion
+- http://igoz2dm6vqo3nuweg3vztqszxprugx2lb6xxbrmz2tkec37gc2vkd5yd.onion
+- http://i5kjii2y2jumlye6etmouksvdhech357urmj4txctrneedl4vkfjbsqd.onion
+- http://vg43c6zaobirjlm3g25v7l7qw5huxuom2b5ksdh247fz3c2uv4gsnzad.onion
 public_keys:
 - id: 916026F56EAB831E
   user_id: EmpireMarket <empiremarket@none.com>
