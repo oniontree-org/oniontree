@@ -1,10 +1,7 @@
 name: Versus Market
 urls:
-- http://wkqq35jt74bbkhln3nhbeytgbwug6ywyic32pfuxyfp4drzlrchyt5yd.onion
-- http://4jglhfy7hndevfg6a6trutdrc23acofi7caso7pz3ngse5qkrcradhad.onion
-- http://h64sohccgf2jp2hlhkyfynmyoaq46yuptkoyoqbmrvzk4zjti6bxg6yd.onion
-- http://eoi3ey63kmh5m35bl2miqn7ewsqyidvpkldjjkid2avng5fd4ov4w2ad.onion
-- http://jiujfvropivzmaj6slgtfz5hljfrdk77elcg3np43zrnjrlolpbctjqd.onion
+- http://pqqmr3p3tppwqvvapi6fa7jowrehgd36ct6lzr26qqormaqvh6gt4jyd.onion
+- http://q2f7swt5yvbhciqqbbsidufu2vtkv6ivwy6g5i5ukejjlb2jeghd2had.onion
 public_keys:
 - id: EA49E88989F0666F
   user_id: Versus Market
