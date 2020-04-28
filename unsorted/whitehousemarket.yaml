@@ -4,6 +4,10 @@ urls:
 - http://7yipwxdv5cfdjfpjztiz7sv2jlzzjuepmxy4mtlvuaojejwhg3zhliqd.onion
 - http://cieprrpdgp7moka2ktlwy54ooymtgsre23enrf4dfzssap74zz45f6id.onion
 - http://zefmozbmelwjc4elhoim2q3t3y4z3yoodczvqagtquvwzhx763f4jtyd.onion
+- http://76p5k6gw25l5jpy7ombo2m7gt4zppowbz47sizvlzkigvnyhhc26znyd.onion
+- http://flkzk2qjqe2yo5etsb7klxjihgrj7bi54k3iscccvkk7xbkif6x5etad.onion
+- http://d3vkr3i737xplkyqto2attd2wruprpzeeroxuf7xkuehafdfitzynhid.onion
+- http://voh5342e6nnxieprcsafwk5rfphgfbrbq2ihftfzrjsbndmb6u5jx4id.onion
 public_keys:
 - id: D3AEE04FC4C6007E
   user_id: shop_master
