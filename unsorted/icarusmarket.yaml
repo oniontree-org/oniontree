@@ -1,0 +1,63 @@
+name: Icarus Market
+urls:
+- http://icarus5l5r3vnn5u.onion
+- http://icarus5kuzorj3hz.onion
+- http://icarusg6s3ikphkb.onion
+- http://icaruslsdsqc6ur4.onion
+public_keys:
+- id: 204ADE4284E35BE3
+  user_id: Icarus Market <icarusmarket@dread.com>
+  fingerprint: 0D50011FC35237C0828264E4204ADE4284E35BE3
+  value: |
+    -----BEGIN PGP PUBLIC KEY BLOCK-----
+    Version: GnuPG v2
+
+    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
+    5sYyA24X
+    =afgK
+    -----END PGP PUBLIC KEY BLOCK-----
