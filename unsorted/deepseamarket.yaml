@@ -6,3 +6,38 @@ urls:
 - http://dsmktvpejm3sj5c5ua7az5hnx5mo36ewwixaj3rfbbwudfoyxaz7xxid.onion
 - http://dsmkt3ayppe7hdxqcjmj65biivvk37bde5njjvnblm7ccvx3vfkypqqd.onion
 - http://deepsea252lp3ctk.onion
+public_keys:
+- id: 913C42B481D1C6E2
+  user_id: WhiteShark
+  fingerprint: C19B76EF79A50A085BA9E22B913C42B481D1C6E2
+  value: |
+    -----BEGIN PGP PUBLIC KEY BLOCK-----
+
+    mQENBF46tWoBCACtfOQ26KEf8eVjc8zGJrWRNQIKin0881ERj5Y7AyKLIgKQ0yHo
+    eZxiTN2rVq4R+WOGlmqGAyEgg3xfN8zEdm7OE1qGoWuI/xN3mkFU5iIpxBCDEyAc
+    +IRpYLstaB2CvSU3zFSt7F7SDoSEiuAptcQ5G7M/UTotFKQTeolduuoR74MWJVcV
+    AdTacNqiziKmgsLdcUgwgbFTxTr3xza5PcGWL1QUke5wbhI4NtWYwB8sut6gowgg
+    3OPME4opdyJ7lfp+teWjbOkxnJPSBeRjiwNY89YA/labjekqAKsiTnyDpMAntbOT
+    2IoQzNFmFYc1MzZqWYkjMUj1Ou3nX4ZzUQeZABEBAAG0CldoaXRlU2hhcmuJAVQE
+    EwEIAD4WIQTBm3bveaUKCFup4iuRPEK0gdHG4gUCXjq1agIbAwUJCWiPRgULCQgH
+    AgYVCgkICwIEFgIDAQIeAQIXgAAKCRCRPEK0gdHG4o0oB/44/HEiUOqZ60X1d+uN
+    ypUKk0KyFo3uwBEjiLPsc2Irv8L9L9kI7YHdx5LqSPC4/JOnMgN5yyT+PfJdMmvf
+    WmQmp5eCvbIf8t9k/1m8EPixccOv7XZ3xwU/hoMxz/EEy9v5qrp5+gO/l3nDbZux
+    Ql66+I8i2BLKdfJcjfQHonjZZUX4j95DIl1blW4xtdxXfVOTpgbhPUBbJV6dU+2r
+    tgPMKChzinuQ25+RyepOp/v/SNglmQWPe+sSmTSC7xOoc3m2/py/aef0/PBnSZw0
+    Ox0yjNqgfTBt0G8uttBnH/LSPPzAx/U3CcuTtMcCqg1OmNqFXVLI/9a7Rbc34jsi
+    WairuQENBF46tWoBCAC1ypkOzM7iZrec7+Z2UvDLJAjzGOIrIpZBYCy46wbtmUeb
+    6ME7VJHgO7SSsFXpIyRwOEepxHSDtBrLjnOyf9PMdvbMSq7C8FDNh0JSeVNQxAkx
+    48HLGhadkbNLCbtvhw+AC5Phx4KgiEXh9TVYycCRf1i7KgohWW7zHsCk6AvKXGnD
+    MG+RthvjhrY+MaOWAcNEDpdZmHeN+9AzSa4QutjcLE1lMoBJBlacHMH48QqSGkqo
+    gugIWzt1IgIVK0NqKy/D7U8ICcpasgl+Yfdj2VOsEqXwc40lxch2orIckUNEiwOX
+    lis/ErHOVqqquy+VwIMg/rQMzBTGo/7AnJkfgyE9ABEBAAGJATwEGAEIACYWIQTB
+    m3bveaUKCFup4iuRPEK0gdHG4gUCXjq1agIbDAUJCWiPRgAKCRCRPEK0gdHG4vor
+    CACWb/aPy+G3iNl1Rr6/h2mer+d9Q+U6GJaZWrWqDB9q4L2EtE5GkfwFA2d7q7Ej
+    5nzJ8gLyXaoT84XkuSZk5o8ie89jhgc873uFahd2fR7BxttjDrT62NTErEZkffsJ
+    glov9EbmDIicLDBlZt5aJuEAxAII7aFyeJKK1J/QVEEEcEPAW3euRqxCKxTPMOyc
+    ZGM6ncv6dkQsZcMtrvykNRtTedzS3u0JobM6tRZEpXPVoRDxfk/jnYYAXkggfyE2
+    LRLYiLztgTptnxUN0MR3QXlFOT9SwKRxtMoXrdq8XvwBokwEnLWtGHveAEk82ay9
+    MpEsz/pwUEBRgTCLIiXJ7Lv9
+    =E2km
+    -----END PGP PUBLIC KEY BLOCK-----
