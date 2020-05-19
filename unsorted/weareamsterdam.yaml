@@ -1,0 +1,40 @@
+name: WeAreAMSTERDAM
+urls:
+- http://amster4mdi4ls27irjhe3ul6hzha5itf6naifanpfbdbfybclbnqipyd.onion
+- http://amster7eb42jwbx6umy7gs4migxnu5vjp5b5t5wbdtmqv2yhx3zsb7id.onion
+- http://amster7ga6whqvoyt6dlxnhpe7cx7om7fh3tnldu5ecngbnd4o4zstqd.onion
+public_keys:
+- id: 4760C7A395E3A9FF
+  user_id: hossel <hossele@hos.net>
+  fingerprint: 38836E7F6134A3303D748B574760C7A395E3A9FF
+  value: |
+    -----BEGIN PGP PUBLIC KEY BLOCK-----
+
+    mQENBFzN4XYBCADI7f0/vJtubVx60BizBSXSoaIU5fggWt2u0Ce/+PlD2Mk3gVPt
+    gY5Zq68U6qY1MwA0oS9/n+3zRiY4w1jPXXmWnGq4q5LneGPLLoU/eRCH3j3xVZom
+    TLAf+W6LOfQdTBWo8xdgUhYs34q8yB0rZ03piXsqkQVAZfpaUHTsIJbIIFukQ0p3
+    qhWbniQMBIlabf5Dqgmzvq/LaWV/FfM5gY/shLb5QzPRbxQY+2XaX7OI9LxBkv3U
+    D3HfArk+nHxOih6bEmZYZNARQ+5bL2rJ55XgLcX/gvMKb8hMrS7pwdSjLhSVufmK
+    Fa/9K2K7ebyXOYK/DHiyG1k606rubLIbVHlBABEBAAG0GGhvc3NlbCA8aG9zc2Vs
+    ZUBob3MubmV0PokBVAQTAQgAPhYhBDiDbn9hNKMwPXSLV0dgx6OV46n/BQJczeF2
+    AhsDBQkDwzmqBQsJCAcCBhUKCQgLAgQWAgMBAh4BAheAAAoJEEdgx6OV46n/L08H
+    /0+MiQ6Z1IpyDynH2HCF/ZNwIURilpEnVoZ15k+QZqh+oU2NzB/vD9vw7Dnj/vOg
+    s6O/+wtjNHLx9nnLqIWIkkEN6lJI5cL4XxfHP3q60BIWpvI6h9584df821gS1qaT
+    lV8l+uedFeG/EilOECPw4v+vBFhBtCtS1S3x52txH1FIvUhMMEXpeaswg6htbjnv
+    C9Kiu974CJgk0SxNioUv3Eicle3xSsYhW/Szh+MdI0N9jcaSIdtvne2Vwds3K2Ur
+    lPLVsPKYOSkmXSmSyME6fttbtguBWebb4scV1VXQlEpNKkL9fA8WNXs/2KJlyOmK
+    njMJJf33NBiN6+o0RgcYzkm5AQ0EXM3hdgEIANpP1G3ntpuun44jUaZaueH+jaxO
+    5FCq0qhSGDg4yeFxyaogxSzGAZ4LsTEdssgXjhjgv4mjZovGkjJF7oQJYydehBfJ
+    SF1px8LKQMrXZ6TJwbfMpiXlp9QpBKphBQNqZSAdv0bAWs5MoQwC1bvFqBCQzjMM
+    U3clZhIKGUhxXww4y9y76QpoFvjoMcwQfGIoJdINVROET7IKj7j0+33eiIZSxrFC
+    qkUBDROOCxA/CBOVo6xj94sIU04hGjtuFU+h93tkNROit7nZf1e72Wj6r6ts6Ck8
+    ZUnDb1Yalu9c7/4RLOBCN0VTsv0dcr2D89ztg2RSKHF/um3NqjA3fee1EpcAEQEA
+    AYkBPAQYAQgAJhYhBDiDbn9hNKMwPXSLV0dgx6OV46n/BQJczeF2AhsMBQkDwzmq
+    AAoJEEdgx6OV46n/NScH/2XIgpPSEmsR+8s+4yT6c9IT1A3ILG4Lr4wARxGGu3u3
+    gMhTt5pu2lytiyE/yrDlqFHO88+FfeBoBWLJaZmD2wzgtNlpz9qPTEgrduUUPfp5
+    wDAajzYvxxH757eQMVv0ir5zE2/UNeoq4ytklexhjoZeuqyrsZ3ReSMNWeV/YLXC
+    pwIKKcVusHkh4w3kEwk2fgYi6r37uSOYI2wINulo/+sztXqSGrDNcwJJxT9JTMge
+    91XYx7QuRW1rhXqVkJ5KUqaDxlGLCpcP8nyiNWWH971rw/U/0oLDHnuw+Getr241
+    mUYgz4Saugikw6Y4tTXBUfH1BO2bG0LdbEU4BcDxhMg=
+    =PMwt
+    -----END PGP PUBLIC KEY BLOCK-----
