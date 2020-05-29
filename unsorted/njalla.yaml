@@ -3,7 +3,7 @@ description: We're a different type of domain name registration service! We care
   your right to privacy. We believe it's an important piece of democracy that we have
   the right to be anonymous.
 urls:
-- http://njalladnspotetti.onion/
+- http://njalladnspotetti.onion
 public_keys:
 - id: B12D5ECC82C24A5A
   user_id: Njalla (Contact) <contact@njal.la>
