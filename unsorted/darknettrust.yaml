@@ -2,6 +2,8 @@ name: DarkNet Trust
 urls:
 - http://wk5hjnojqkavnxoo.onion
 - http://ohivsd7ze7rgdir4.onion
+- http://dntrustmucd4mwec.onion
+- http://dntrustmuq5ccf3lygrnhsprpdliakq7r2ljsspczmdsslj5wl4teeid.onion
 public_keys:
 - id: FAEACE2F3EBA3E9C
   user_id: cloneDDW <cloneddw@mail.local>
