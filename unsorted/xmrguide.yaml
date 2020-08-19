@@ -3,6 +3,7 @@ description: This site will guide you through the process of setting up a Monero
   on Tails and Whonix.
 urls:
 - http://xmrguide42y34onq.onion
+- http://monero3tssjogwg5rj37hiawndkwge5eio5wtgwvt32fvzu5drpmzlqd.onion
 public_keys:
 - id: 1CADD27F41F45C3C
   user_id: thotbot (/u/Thotbot on Dread, /u/tobtoht on Reddit) <thotbot@protonmail.com>
