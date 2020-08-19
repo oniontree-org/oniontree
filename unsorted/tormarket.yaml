@@ -2,6 +2,7 @@ name: Tor Market
 urls:
 - http://tt2mopgckifmberr.onion
 - http://omakdotjs23oqckj.onion
+- http://rrlm2f22lpqgfhyydqkxxzv6snwo5qvc2krjt2q557l7z4te7fsvhbid.onion
 public_keys:
 - id: B66A7541077ECC76
   user_id: tormarket
