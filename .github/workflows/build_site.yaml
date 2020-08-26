@@ -1,0 +1,16 @@
+---
+name: Build OnionTree site
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  dispatch:
+    name: "Dispatch oniontree-updated event"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: peter-evans/repository-dispatch@v1
+        with:
+          token: ${{ secrets.ACCESS_TOKEN }}
+          event-type: oniontree-updated
+          repository: oniontree-org/oniontree-hugo
