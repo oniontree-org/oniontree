@@ -6,3 +6,60 @@ description: Carrot Hosting is a project that aims to provide a fully automated,
   world.
 urls:
 - http://carrot7rw5qtbzdchalmd2gshhq656maqqgy5xedrwe42okkkwekooqd.onion
+public_keys:
+- id: EF2BBD4E32CC1A9A
+  user_id: Carrot Hosting <carrothosting@riseup.net>
+  fingerprint: 673359F10A209FC97F9C0341EF2BBD4E32CC1A9A
+  value: |
+    -----BEGIN PGP PUBLIC KEY BLOCK-----
+
+    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
+    AwrKSdE=
+    =l0/z
+    -----END PGP PUBLIC KEY BLOCK-----
