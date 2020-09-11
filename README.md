@@ -41,7 +41,7 @@ contributor's PGP key.
 
 You are free to contribute to this repository. Modify the files with your
 favorite text editor or use our ever evolving
-[tools](https://github.com/onionltd/oniontree-tools).
+[tool](https://github.com/oniontree-org/go-oniontree/tree/master/cmd/oniontree).
 
 Before you open a pull request, make sure your contribution meets our [commit
 conventions](https://github.com/onionltd/oniontree/blob/master/COMMITS.md).
