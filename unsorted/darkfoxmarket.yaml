@@ -2,6 +2,10 @@ name: DarkFox Market
 urls:
 - http://57d5j6hfzfpsfev6c7f5ltney5xahudevvttfmw4lrtkt42iqdrkxmqd.onion
 - http://557ssqsc5py54w7ofwnlw2j2guohklywb52ymfw5v6glbyibqravwkyd.onion
+- http://p5eg3xsssjglu6tvwfazp2nqqwfpah55wr3ljil2bezp5shix5ruqsqd.onion
+- http://4xt3tygdbhijffgafkpyvzyftpmtq75w5kgch3emkb5c7mjii462klid.onion
+- http://gykafhjweddhrbm5zn6zwi5gwxd3zzdjjiqxx7ebp27b4xpf3b2lggad.onion
+- http://ste6sk22hcb76kw5hkyp2czf6nerj56lgvufkcpj6olx4v5mlqhri4id.onion
 public_keys:
 - id: FDC74A4934BB180F
   user_id: df_master
