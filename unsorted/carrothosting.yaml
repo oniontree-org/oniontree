@@ -6,6 +6,8 @@ description: Carrot Hosting is a project that aims to provide a fully automated,
   world.
 urls:
 - http://carrot7rw5qtbzdchalmd2gshhq656maqqgy5xedrwe42okkkwekooqd.onion
+- http://jezr76u6cne2aseeadktsgaihu2awyake6524dzqke37icprkja4xeyd.onion
+- http://jykcw33rq5m2wlnqfnfyf5brnly75nhuqzalgyr7dcat6xujoz4bezid.onion
 public_keys:
 - id: EF2BBD4E32CC1A9A
   user_id: Carrot Hosting <carrothosting@riseup.net>
