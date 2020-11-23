@@ -1,0 +1,7 @@
+name: Cockbox
+description: Cockbox is a small, Tor-friendly, privacy-oriented Bitcoin VPS provider.
+  Due to its small size, customers have immediate access to 24/7 phone support (lie)
+  and things are pretty relaxed in general (true). Cockbox's servers are in Bucharest,
+  Romania, and 950 Gbit DDoS protection is automatically included on every server.
+urls:
+- http://dwtqmjzvn2c6z2x462mmbd34ugjjrodowtul4jfbkexjuttzaqzcjyad.onion
