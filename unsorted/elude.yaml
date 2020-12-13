@@ -2,6 +2,7 @@ name: Elude
 description: No bullshit email provider, no tracking, no profiling, no data mining!
 urls:
 - http://eludemaillhqfkh5.onion
+- http://eludemailxhnqzfmxehy3bk5guyhlxbunfyhkcksv4gvx6d3wcf6smad.onion
 public_keys:
 - id: 559D9067FD7DF541
   user_id: Elude.in Support (Administrative Account) <support@elude.in>
